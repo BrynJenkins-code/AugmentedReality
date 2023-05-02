@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Background" style="flex-grow: 1;">
+        <ui:VisualElement style="height: 1371px; width: 374px; align-items: center; justify-content: flex-start;">
+            <ui:Button text="Button" display-tooltip-when-elided="true" style="height: 123px; width: 306px; top: 50px; margin-top: 10px; margin-bottom: 10px;" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" style="height: 123px; width: 306px; top: 50px; margin-top: 10px; margin-bottom: 10px;" />
+            <ui:Button text="Button" display-tooltip-when-elided="true" style="height: 123px; width: 306px; top: 50px; margin-top: 10px; margin-bottom: 10px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

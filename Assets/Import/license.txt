@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volcán de Montaña Roja (Granadilla)
+* source:	https://sketchfab.com/3d-models/volcan-de-montana-roja-granadilla-9443597f6c8a4e598149b665177f3cb8
+* author:	J. Víctor Febles (https://sketchfab.com/JVICTORFEBLESGLEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volcán de Montaña Roja (Granadilla)" (https://sketchfab.com/3d-models/volcan-de-montana-roja-granadilla-9443597f6c8a4e598149b665177f3cb8) by J. Víctor Febles (https://sketchfab.com/JVICTORFEBLESGLEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
